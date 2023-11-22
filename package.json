@@ -1,7 +1,7 @@
 {
   "name": "ajs",
   "version": "1.0.0",
-  "description": "",
+  "description": "``` svn export https://github.com/myx777/ajs-homeworks/trunk/ci-template",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
