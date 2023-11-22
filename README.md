@@ -1,8 +1,8 @@
 ## База шаблона Webpack
-`
+```
 svn export https://github.com/myx777/ajs-homeworks/trunk/ci-template
 
-`
+```
 
 ## Destructuring
 
